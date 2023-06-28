@@ -1,6 +1,3 @@
-
-
-
 def wrap(string, max_width):
     s=''
     c=0
@@ -10,4 +7,3 @@ def wrap(string, max_width):
         s=s+'\n'+string[c:c+max_width]
         c+=max_width
     return s[1:]
-
