@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Java_IfElse{
+public class Java_IfElse{ //change class name to Solution
 
     private static final Scanner sc = new Scanner(System.in);
 
