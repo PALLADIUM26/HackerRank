@@ -12,7 +12,7 @@ import static java.util.stream.Collectors.toList;
 
 
 
-public class Solution {
+public class Java1dArray { //change class name Solution
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
