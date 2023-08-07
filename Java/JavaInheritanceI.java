@@ -18,10 +18,7 @@ class Bird extends Animal {
 }
 
 
-
-
-
-public class JavaInheritanceI { //change class name Solution
+public class Solution{
 
     public static void main(String[] args) {
         Bird bird = new Bird();
